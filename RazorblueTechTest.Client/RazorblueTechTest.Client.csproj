@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\RazorblueTechTest.Anagram\RazorblueTechTest.Anagram.csproj" />
+    <ProjectReference Include="..\RazorblueTechTest.FizzBuzz\RazorblueTechTest.FizzBuzz.csproj" />
   </ItemGroup>
 
 </Project>
