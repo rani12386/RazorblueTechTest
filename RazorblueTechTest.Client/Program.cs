@@ -1,4 +1,5 @@
 ﻿using RazorblueTechTest.Anagram;
+using RazorblueTechTest.DataImport;
 using RazorblueTechTest.FizzBuzz;
 using RazorblueTechTest.IPFiltering;
 
@@ -18,4 +19,10 @@ Console.ReadLine();
 //Task-3
 Console.WriteLine("-----Task-2(IP Filtering)-----");
 Console.WriteLine($"Is that the given ip address is range of given IPaddress and CIDR? : {IPFiltering.IsInRange("192.168.0.0/24", "192.168.0.10")} ");
+Console.ReadLine();
+
+//Test-4
+Console.WriteLine("-----Task-3(Data Import)-----");
+DataImport.ExportVehiclesByType();
+Console.WriteLine($"Invalid vehicle count: {DataImport.GetInValidVehicleCount()} ");
 Console.ReadLine();

@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorblueTechTest.FizzBuzz"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorblueTechTest.IPFiltering", "RazorblueTechTest.IPFiltering\RazorblueTechTest.IPFiltering.csproj", "{958FF07D-184A-438D-9908-DDAC996B15F3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorblueTechTest.DataImport", "RazorblueTechTest.DataImport\RazorblueTechTest.DataImport.csproj", "{3A844752-11A5-4CC6-B04C-0F4E342E024C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{958FF07D-184A-438D-9908-DDAC996B15F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{958FF07D-184A-438D-9908-DDAC996B15F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{958FF07D-184A-438D-9908-DDAC996B15F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A844752-11A5-4CC6-B04C-0F4E342E024C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A844752-11A5-4CC6-B04C-0F4E342E024C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A844752-11A5-4CC6-B04C-0F4E342E024C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A844752-11A5-4CC6-B04C-0F4E342E024C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
