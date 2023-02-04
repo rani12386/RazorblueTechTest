@@ -24,6 +24,7 @@
   <ItemGroup>
     <ProjectReference Include="..\RazorblueTechTest.Anagram\RazorblueTechTest.Anagram.csproj" />
     <ProjectReference Include="..\RazorblueTechTest.FizzBuzz\RazorblueTechTest.FizzBuzz.csproj" />
+    <ProjectReference Include="..\RazorblueTechTest.IPFiltering\RazorblueTechTest.IPFiltering.csproj" />
   </ItemGroup>
 
 </Project>
